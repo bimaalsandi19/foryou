@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(https://wallpapercave.com/wp/wp1892092.png) !important;
+  background-position: center !important;
+  background-size: cover !important;
+}
+.card {
+  text-align: center;
+  margin-top: 150px;
+  opacity: 80%;
+}
+img {
+  width: 50%;
+}
